@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 10 Nov 2023 20:26:46 at https://wp.hixstudio.net/harry/home-portfolio/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wp.hixstudio.net/harry/home-portfolio/ -O1 "C:\My Web Sites\ramin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:28:59	Error: 	"Not Found" (404) at link https://wp.hixstudio.net/harry/home-portfolio/r,{s:2*parseInt(a (from https://wp.hixstudio.net/harry/wp-content/plugins/give/assets/dist/js/give.js?ver=97b749a84309674c)
+20:28:59	Error: 	"Not Found" (404) at link https://wp.hixstudio.net/harry/home-portfolio/window.location (from https://wp.hixstudio.net/harry/wp-content/plugins/wp-event-solution/assets/js/event-manager-public.js?ver=3.3.39)
+20:28:59	Error: 	"Not Found" (404) at link https://wp.hixstudio.net/harry/home-portfolio/a.params.url (from https://wp.hixstudio.net/harry/wp-content/themes/harry/assets/js/swiper-bundle.js?ver=6.3.2)
+20:28:59	Error: 	"Not Found" (404) at link https://wp.hixstudio.net/harry/home-portfolio/Version/ (from https://wp.hixstudio.net/harry/wp-content/themes/harry/assets/js/tween-max.js?ver=6.3.2)
+20:28:59	Error: 	"Not Found" (404) at link https://wp.hixstudio.net/harry/home-portfolio/-negative.svg (from https://wp.hixstudio.net/harry/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.6)
+20:28:59	Error: 	"Not Found" (404) at link https://wp.hixstudio.net/harry/home-portfolio/OPR/ (from https://wp.hixstudio.net/harry/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.6)
+20:29:00	Error: 	"Not Found" (404) at link https://wp.hixstudio.net/harry/home-portfolio/$&/ (from https://wp.hixstudio.net/harry/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0)
+20:29:00	Error: 	"Not Found" (404) at link https://wp.hixstudio.net/harry/home-portfolio/n(5042 (from https://wp.hixstudio.net/harry/wp-content/plugins/wp-event-solution/build/index-calendar.js?ver=3.3.39)
+20:29:00	Warning: 	Moved Permanently for https://wp.hixstudio.net/harry/home-portfolio/isDSTShifted is deprecated. See http://momentjs.com/guides/
+20:29:00	Warning: 	File has moved from https://wp.hixstudio.net/harry/home-portfolio/isDSTShifted is deprecated. See http://momentjs.com/guides/ to https://wp.hixstudio.net/harry/home-portfolio/isDSTShifted%20is%20deprecated.%20See%20http:/momentjs.com/guides/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 14 seconds : 164 links scanned, 154 files written (7151280 bytes overall) [2771184 bytes received at 20680 bytes/sec], 7148224 bytes transferred using HTTP compression in 119 files, ratio 20%, 5.5 requests per connection
+(8 errors, 2 warnings, 0 messages)
